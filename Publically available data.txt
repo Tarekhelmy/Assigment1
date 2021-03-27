@@ -1,0 +1,3 @@
+http://airfoiltools.com/plotter/index?airfoil=n0012-il
+
+this was used to get the coordinate points on the airfoil
